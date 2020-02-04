@@ -1,5 +1,5 @@
 # robopeeps
-Tutorial for udemy course - React
+All you need to do to view the project is follow the steps below.
 To run the project:
 
 1. Clone this repo
